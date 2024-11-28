@@ -1,0 +1,7 @@
+dinosaurier
+pandas
+katzen
+bagger
+studenten
+ingenieure
+autos
